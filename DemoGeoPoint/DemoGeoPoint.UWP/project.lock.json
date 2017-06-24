@@ -22272,16 +22272,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\t-elrodr\\Documents\\GitHub\\DemoGeoPoint\\DemoGeoPoint\\DemoGeoPoint.UWP\\DemoGeoPoint.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\t-elrodr\\Documents\\GitHub\\DemoGeoPoint\\Geopoint\\DemoGeoPoint\\DemoGeoPoint.UWP\\DemoGeoPoint.UWP.csproj",
       "projectName": "DemoGeoPoint.UWP",
-      "projectPath": "C:\\Users\\t-elrodr\\Documents\\GitHub\\DemoGeoPoint\\DemoGeoPoint\\DemoGeoPoint.UWP\\DemoGeoPoint.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\t-elrodr\\Documents\\GitHub\\DemoGeoPoint\\DemoGeoPoint\\DemoGeoPoint.UWP\\project.json",
+      "projectPath": "C:\\Users\\t-elrodr\\Documents\\GitHub\\DemoGeoPoint\\Geopoint\\DemoGeoPoint\\DemoGeoPoint.UWP\\DemoGeoPoint.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\t-elrodr\\Documents\\GitHub\\DemoGeoPoint\\Geopoint\\DemoGeoPoint\\DemoGeoPoint.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Users\\t-elrodr\\Documents\\GitHub\\DemoGeoPoint\\DemoGeoPoint\\DemoGeoPoint\\DemoGeoPoint.csproj": {
-              "projectPath": "C:\\Users\\t-elrodr\\Documents\\GitHub\\DemoGeoPoint\\DemoGeoPoint\\DemoGeoPoint\\DemoGeoPoint.csproj"
+            "C:\\Users\\t-elrodr\\Documents\\GitHub\\DemoGeoPoint\\Geopoint\\DemoGeoPoint\\DemoGeoPoint\\DemoGeoPoint.csproj": {
+              "projectPath": "C:\\Users\\t-elrodr\\Documents\\GitHub\\DemoGeoPoint\\Geopoint\\DemoGeoPoint\\DemoGeoPoint\\DemoGeoPoint.csproj"
             }
           }
         }
